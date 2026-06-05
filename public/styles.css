@@ -357,7 +357,6 @@ html {
 
 .feature-card,
 .audience-card,
-.benefit-item,
-.risk-level {
+.benefit-item {
     animation: fadeInUp 0.6s ease-out;
 }
