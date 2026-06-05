@@ -1,0 +1,15 @@
+# Скриншот раздела: benefits-section
+# Это заглушка для раздела benefits-section
+# Реальный скриншот должен быть создан вручную или с помощью специальных инструментов
+
+URL: http://localhost:8000/screenshots/benefits-section.html
+
+Описание раздела:
+- Benefits Section
+- Интерфейс AI Crew платформы
+- Адаптивный дизайн с градиентами и анимациями
+
+Чтобы создать реальный скриншот:
+1. Откройте указанный URL в браузере
+2. Нажмите Cmd+Shift+4 для создания скриншота экрана
+3. Сохраните изображение в файл /Users/evgeny/aideveloper/screenshots/benefits-section.png

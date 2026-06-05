@@ -1,0 +1,15 @@
+# Скриншот раздела: audience-section
+# Это заглушка для раздела audience-section
+# Реальный скриншот должен быть создан вручную или с помощью специальных инструментов
+
+URL: http://localhost:8000/screenshots/audience-section.html
+
+Описание раздела:
+- Audience Section
+- Интерфейс AI Crew платформы
+- Адаптивный дизайн с градиентами и анимациями
+
+Чтобы создать реальный скриншот:
+1. Откройте указанный URL в браузере
+2. Нажмите Cmd+Shift+4 для создания скриншота экрана
+3. Сохраните изображение в файл /Users/evgeny/aideveloper/screenshots/audience-section.png
