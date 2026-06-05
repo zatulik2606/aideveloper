@@ -1,6 +1,6 @@
 [build]
   command = "echo 'No build command needed for static HTML'"
-  publish = "."
+  publish = "public"
 
 [[headers]]
   for = "/*"
