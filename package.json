@@ -1,0 +1,19 @@
+{
+  "name": "ai-crew-landing",
+  "version": "1.0.0",
+  "description": "AI Crew - Интеллектуальная платформа для оценки и анализа работ в сети эксплуатации ИТ-оборудования",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static build complete'"
+  },
+  "keywords": ["ai", "it-operations", "assessment", "platform"],
+  "author": "AI Crew Team",
+  "license": "MIT",
+  "homepage": "https://github.com/zatulik2606/aideveloper#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zatulik2606/aideveloper.git"
+  }
+}
